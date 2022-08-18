@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0A629E7A28ADFDBD00BB3961 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629E7928ADFDBD00BB3961 /* main.swift */; };
 		0A629E7B28ADFDDF00BB3961 /* Watermelon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629E7728ADFCB700BB3961 /* Watermelon.swift */; };
+		0A629E7D28AE02F000BB3961 /* Lemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629E7C28AE02F000BB3961 /* Lemon.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		0A629E6D28ADFC7E00BB3961 /* Study */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Study; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A629E7728ADFCB700BB3961 /* Watermelon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Watermelon.swift; sourceTree = "<group>"; };
 		0A629E7928ADFDBD00BB3961 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		0A629E7C28AE02F000BB3961 /* Lemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lemon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				0A629E7728ADFCB700BB3961 /* Watermelon.swift */,
 				0A629E7928ADFDBD00BB3961 /* main.swift */,
+				0A629E7C28AE02F000BB3961 /* Lemon.swift */,
 			);
 			path = Study;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			files = (
 				0A629E7A28ADFDBD00BB3961 /* main.swift in Sources */,
 				0A629E7B28ADFDDF00BB3961 /* Watermelon.swift in Sources */,
+				0A629E7D28AE02F000BB3961 /* Lemon.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
