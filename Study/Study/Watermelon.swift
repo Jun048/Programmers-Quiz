@@ -1,3 +1,12 @@
+//
+//  Watermelon.swift
+//  Study
+//
+//  Created by JY on 2022/08/18.
+//
+
+import Foundation
+
 func solution(_ n:Int) -> String {
     var result = ""
     for i in 1...n {
@@ -9,3 +18,4 @@ func solution(_ n:Int) -> String {
     }
     return result
 }
+
