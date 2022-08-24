@@ -10,7 +10,8 @@
 		0A629E7B28ADFDDF00BB3961 /* Watermelon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629E7728ADFCB700BB3961 /* Watermelon.swift */; };
 		0A629E8228AE3E8900BB3961 /* SquareStar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629E7E28AE2B9B00BB3961 /* SquareStar.swift */; };
 		0A629E8428B3199700BB3961 /* Average.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629E8328B3199700BB3961 /* Average.swift */; };
-		0A629E8528B319D000BB3961 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629E7928ADFDBD00BB3961 /* main.swift */; };
+		0A629EE328B5C9C300BB3961 /* Intchange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629EE128B5C97D00BB3961 /* Intchange.swift */; };
+		0A629EE428B5C9F200BB3961 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A629E7928ADFDBD00BB3961 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		0A629E7928ADFDBD00BB3961 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		0A629E7E28AE2B9B00BB3961 /* SquareStar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareStar.swift; sourceTree = "<group>"; };
 		0A629E8328B3199700BB3961 /* Average.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Average.swift; sourceTree = "<group>"; };
+		0A629EE128B5C97D00BB3961 /* Intchange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Intchange.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				0A629E7928ADFDBD00BB3961 /* main.swift */,
 				0A629E7E28AE2B9B00BB3961 /* SquareStar.swift */,
 				0A629E8328B3199700BB3961 /* Average.swift */,
+				0A629EE128B5C97D00BB3961 /* Intchange.swift */,
 			);
 			path = Study;
 			sourceTree = "<group>";
@@ -131,9 +134,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A629E7B28ADFDDF00BB3961 /* Watermelon.swift in Sources */,
+				0A629EE428B5C9F200BB3961 /* main.swift in Sources */,
 				0A629E8228AE3E8900BB3961 /* SquareStar.swift in Sources */,
-				0A629E8528B319D000BB3961 /* main.swift in Sources */,
 				0A629E8428B3199700BB3961 /* Average.swift in Sources */,
+				0A629EE328B5C9C300BB3961 /* Intchange.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
